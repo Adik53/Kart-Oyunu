@@ -1,0 +1,26 @@
+body{
+    background: linear-gradient(to right, #11ef46, rgba(25, 199, 193, 0.67)) ;}
+
+.question{
+    color: #222222;
+}
+
+.wrapper{
+    background: #F8F8F8;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+}
+
+.card .view{
+    background: #fff;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+}
+
+.changeTheme[data-theme="dark"]{
+    display: block;
+}
+
+.changeTheme[data-theme="light"]{
+    display: none;
+}
+
+
